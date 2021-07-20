@@ -8,41 +8,47 @@ Classifies Flower species (Iris dataset) based on petal and sepal dimensions
 
 ### Data Set - Iris
 
-UCI Machine Learning Repository 
+UCI Machine Learning Repository : 
 
 https://archive.ics.uci.edu/ml/datasets/iris
 
 ### Machine Learning and EDA
 
 numpy
+
     pip install numpy 
 
 pandas
+
     pip install pandas
 
 sklearn
+
     pip install sklearn
 
 matplotlib
+
     pip install matplotlib
 
 
 ### Saving models
 
 Joblib
+
     pip install joblib
 
 ### Building WebApp
 
-### Django 
+#### Django 
+
     pip install Django
 
 ### Documentations
 
-Django
+Django : 
 https://docs.djangoproject.com/en/3.2/
 
-Sklearn
+Sklearn : 
 https://scikit-learn.org/stable/modules/classes.html
 
 
